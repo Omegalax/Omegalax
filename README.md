@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Omegalax</h1>
+<h1 align="center">Hi 👋, I'm Jessim Skiba</h1>
 <h3 align="center">42 student in the making</h3>
 
 - 🌱 I’m currently learning **C & C++**
 
-- 📫 How to reach me **Omegalax#5092**
+- 📫 How to reach me **hu#4819**
 
 - ⚡ Fun fact **black cat lover**
 
